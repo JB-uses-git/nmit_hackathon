@@ -1,16 +1,12 @@
-# Welcome to your Lovable project
+# Welcome to our odoo x nmit hackathon project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/5f549e22-8b8f-49a5-abce-427bbabfe1f3
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/5f549e22-8b8f-49a5-abce-427bbabfe1f3) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -59,15 +55,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5f549e22-8b8f-49a5-abce-427bbabfe1f3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
