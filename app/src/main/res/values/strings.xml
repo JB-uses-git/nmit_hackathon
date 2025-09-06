@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoFinds</string>
+    
+    <!-- Login/Register -->
+    <string name="welcome_to_ecofinds">Welcome to EcoFinds</string>
+    <string name="sustainable_marketplace">Sustainable Second-Hand Marketplace</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="already_have_account">Already have an account? Login here</string>
+    
+    <!-- Main Screen -->
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="add_product">Add Product</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    
+    <!-- Product -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="select_category">Select Category</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    
+    <!-- Messages -->
+    <string name="required_field">This field is required</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="passwords_dont_match">Passwords do not match</string>
+    <string name="username_too_short">Username must be at least 3 characters</string>
+    <string name="login_failed">Invalid email or password</string>
+    <string name="user_exists">User with this email already exists</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="product_added">Product added successfully</string>
+    <string name="product_updated">Product updated successfully</string>
+    <string name="product_deleted">Product deleted successfully</string>
+    <string name="added_to_cart">Added to cart</string>
+    <string name="purchase_successful">Purchase successful</string>
+    
+    <!-- Empty States -->
+    <string name="no_products">No products found</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="no_purchase_history">No purchases yet</string>
+</resources>
